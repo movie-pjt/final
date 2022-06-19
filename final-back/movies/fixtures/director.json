@@ -1,0 +1,828 @@
+[
+{
+    "model": "movies.director",
+    "pk": 1188,
+    "fields": {
+        "name": "김기덕"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 10099,
+    "fields": {
+        "name": "박찬욱"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 17119,
+    "fields": {
+        "name": "김성수"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 21684,
+    "fields": {
+        "name": "봉준호"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 69081,
+    "fields": {
+        "name": "김지운"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 69384,
+    "fields": {
+        "name": "심성보"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 75915,
+    "fields": {
+        "name": "나홍진"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 80450,
+    "fields": {
+        "name": "장윤현"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 84976,
+    "fields": {
+        "name": "강형철"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 84998,
+    "fields": {
+        "name": "곽경택"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 85006,
+    "fields": {
+        "name": "강우석"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 86325,
+    "fields": {
+        "name": "Ryoo Seung-wan"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 87086,
+    "fields": {
+        "name": "양윤호"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 87894,
+    "fields": {
+        "name": "원신연"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 90350,
+    "fields": {
+        "name": "장진"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 94053,
+    "fields": {
+        "name": "이명세"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 97142,
+    "fields": {
+        "name": "정지우"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 108538,
+    "fields": {
+        "name": "Yang Ik-june"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 115906,
+    "fields": {
+        "name": "윤재구"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 117370,
+    "fields": {
+        "name": "박광현"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 118712,
+    "fields": {
+        "name": "김태경"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 119337,
+    "fields": {
+        "name": "최동훈"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 125426,
+    "fields": {
+        "name": "이언희"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 127845,
+    "fields": {
+        "name": "최호"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 132452,
+    "fields": {
+        "name": "임상수"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 141161,
+    "fields": {
+        "name": "Choi Jin-Won"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 144590,
+    "fields": {
+        "name": "이정범"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 145376,
+    "fields": {
+        "name": "이규만"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 224381,
+    "fields": {
+        "name": "변혁 "
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 235064,
+    "fields": {
+        "name": "백운학"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 480529,
+    "fields": {
+        "name": "김곡"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 480530,
+    "fields": {
+        "name": "김선"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 548654,
+    "fields": {
+        "name": "김상만"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 548666,
+    "fields": {
+        "name": "장철수"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 557736,
+    "fields": {
+        "name": "박훈정"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 934324,
+    "fields": {
+        "name": "조범구"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 936037,
+    "fields": {
+        "name": "이정호"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 938737,
+    "fields": {
+        "name": "김형준"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1004566,
+    "fields": {
+        "name": "라희찬"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1023610,
+    "fields": {
+        "name": "박대민"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1024391,
+    "fields": {
+        "name": "윤종빈"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1043185,
+    "fields": {
+        "name": "박기형"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1043312,
+    "fields": {
+        "name": "김기영"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1059129,
+    "fields": {
+        "name": "한재림"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1072375,
+    "fields": {
+        "name": "김성수"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1109635,
+    "fields": {
+        "name": "나현"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1121891,
+    "fields": {
+        "name": "조의석 "
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1135240,
+    "fields": {
+        "name": "김성훈"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1176542,
+    "fields": {
+        "name": "이소영"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1292897,
+    "fields": {
+        "name": "우민호"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1293082,
+    "fields": {
+        "name": "김병우"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1293085,
+    "fields": {
+        "name": "김병서"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1293686,
+    "fields": {
+        "name": "변성현"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1293710,
+    "fields": {
+        "name": "이해영"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1294510,
+    "fields": {
+        "name": "이승준"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1294527,
+    "fields": {
+        "name": "김홍선"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1294627,
+    "fields": {
+        "name": "유하"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1294930,
+    "fields": {
+        "name": "김태윤"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1296088,
+    "fields": {
+        "name": "김석윤 "
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1299279,
+    "fields": {
+        "name": "한동욱"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1303299,
+    "fields": {
+        "name": "하원준"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1303316,
+    "fields": {
+        "name": "김대성"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1336940,
+    "fields": {
+        "name": "Park Sang-Joon"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1404695,
+    "fields": {
+        "name": "송창용"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1453807,
+    "fields": {
+        "name": "손용호"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1456792,
+    "fields": {
+        "name": "이병헌"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1457187,
+    "fields": {
+        "name": "한준희"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1471895,
+    "fields": {
+        "name": "이권"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1475707,
+    "fields": {
+        "name": "윤여창"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1497221,
+    "fields": {
+        "name": "박상현"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1500680,
+    "fields": {
+        "name": "권오광"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1539148,
+    "fields": {
+        "name": "김동원"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1565972,
+    "fields": {
+        "name": "이일형"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1717334,
+    "fields": {
+        "name": "이성태"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1744610,
+    "fields": {
+        "name": "이안규"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1759070,
+    "fields": {
+        "name": "양경모"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1762319,
+    "fields": {
+        "name": "김봉한"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1771406,
+    "fields": {
+        "name": "장항준"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1830479,
+    "fields": {
+        "name": "이사랑"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1867711,
+    "fields": {
+        "name": "김민수"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1879192,
+    "fields": {
+        "name": "김정훈"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1881278,
+    "fields": {
+        "name": "이덕희"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1883005,
+    "fields": {
+        "name": "박현철"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1895319,
+    "fields": {
+        "name": "장창원"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1902848,
+    "fields": {
+        "name": "강윤성"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1910480,
+    "fields": {
+        "name": "이원태"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 1976839,
+    "fields": {
+        "name": "김민수"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2029267,
+    "fields": {
+        "name": "김용완"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2109484,
+    "fields": {
+        "name": "이종석"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2115600,
+    "fields": {
+        "name": "김태균"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2115789,
+    "fields": {
+        "name": "이지원"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2147230,
+    "fields": {
+        "name": "이정화"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2154622,
+    "fields": {
+        "name": "김민호"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2161181,
+    "fields": {
+        "name": "조용진"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2196988,
+    "fields": {
+        "name": "임경택"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2202748,
+    "fields": {
+        "name": "박누리"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2204515,
+    "fields": {
+        "name": "김용훈"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2220827,
+    "fields": {
+        "name": "양종규"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2230559,
+    "fields": {
+        "name": "가타야마 신조"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2237045,
+    "fields": {
+        "name": "리건"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2261285,
+    "fields": {
+        "name": "장한승"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2302266,
+    "fields": {
+        "name": "천명관"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2310672,
+    "fields": {
+        "name": "나준오"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2314879,
+    "fields": {
+        "name": "송지호"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2329379,
+    "fields": {
+        "name": "홍의정"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2376041,
+    "fields": {
+        "name": "이상용"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2644294,
+    "fields": {
+        "name": "이승원"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2645368,
+    "fields": {
+        "name": "김민태"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2648014,
+    "fields": {
+        "name": "Kang Tae-ho"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2755355,
+    "fields": {
+        "name": "남동협"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2813921,
+    "fields": {
+        "name": "윤영빈"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 2853352,
+    "fields": {
+        "name": "김준수"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 3068155,
+    "fields": {
+        "name": "곽수련"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 3084810,
+    "fields": {
+        "name": "김성한"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 3085726,
+    "fields": {
+        "name": "신수정"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 3091318,
+    "fields": {
+        "name": "Jeon Eung-ju"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 3091319,
+    "fields": {
+        "name": "김대희"
+    }
+},
+{
+    "model": "movies.director",
+    "pk": 3091320,
+    "fields": {
+        "name": "Jeong Hyo-seop"
+    }
+}
+]
